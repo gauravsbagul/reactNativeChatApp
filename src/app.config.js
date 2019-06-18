@@ -21,3 +21,6 @@ export const firebaseConfig = {
 // MYAPP_RELEASE_KEY_ALIAS=KNAV
 // MYAPP_RELEASE_STORE_PASSWORD=winjit@123
 // MYAPP_RELEASE_KEY_PASSWORD=winjit@123
+
+//------------------Video link-----------------------------
+//https://www.youtube.com/watch?v=omKU24SmBUM
