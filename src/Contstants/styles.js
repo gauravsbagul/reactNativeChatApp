@@ -14,7 +14,7 @@ const Styles = StyleSheet.create({
     backgroundColor: "#F5FCFF",
     borderWidth: 1,
     borderRadius: 20,
-    width: DEVICE_WIDTH - 100,
+    width: "80%",
     marginVertical: 10
   },
   PhoneText: {
